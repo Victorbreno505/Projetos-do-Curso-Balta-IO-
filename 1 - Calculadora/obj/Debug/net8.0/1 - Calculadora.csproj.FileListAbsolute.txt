@@ -1,0 +1,14 @@
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\bin\Debug\net8.0\1 - Calculadora.exe
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\bin\Debug\net8.0\1 - Calculadora.deps.json
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\bin\Debug\net8.0\1 - Calculadora.runtimeconfig.json
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\bin\Debug\net8.0\1 - Calculadora.dll
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\bin\Debug\net8.0\1 - Calculadora.pdb
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\obj\Debug\net8.0\1 - Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\obj\Debug\net8.0\1 - Calculadora.AssemblyInfoInputs.cache
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\obj\Debug\net8.0\1 - Calculadora.AssemblyInfo.cs
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\obj\Debug\net8.0\1 - Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\obj\Debug\net8.0\1 - Calculadora.dll
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\obj\Debug\net8.0\refint\1 - Calculadora.dll
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\obj\Debug\net8.0\1 - Calculadora.pdb
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\obj\Debug\net8.0\1 - Calculadora.genruntimeconfig.cache
+C:\Projetos\Balta IO\Projetos\1 - Calculadora\obj\Debug\net8.0\ref\1 - Calculadora.dll
